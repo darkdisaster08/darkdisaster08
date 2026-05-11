@@ -79,12 +79,6 @@ Internet → pfSense Firewall (Mini PC)
 
 ---
 
-## 📊 GitHub Stats
-
-![Manjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkdisaster08&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manu008rajput@gmail.com)
