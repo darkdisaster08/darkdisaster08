@@ -15,8 +15,9 @@
 - 🔐 Currently pursuing **Certified Ethical Hacker (CEH)** certification (completing July 2026)
 - 🎓 **Bachelor of Computer Applications (BCA)** — CCSU Meerut (2022–2025)
 - 🏭 9+ years in **Electronics & Battery Manufacturing** at Japanese & Chinese MNCs — deep understanding of real-world industrial systems, processes, and infrastructure
-- 🖥️ Built a **home lab** running pfSense firewall with pfBlockerNG, Cloudflare Dynamic DNS, VPN (PIA), WAN/LAN segmentation — hands-on network security from day one
-- 🚩 Completed **CTF challenges** using FTP, Netcat, and SSH exploitation
+- 🖥️ Managed **MES systems** — software deployment, UAT, functional testing, and production rollouts in collaboration with international development teams
+- 🔨 Built a **home lab** running pfSense firewall with pfBlockerNG, Cloudflare Dynamic DNS, VPN (PIA), WAN/LAN segmentation
+- 🚩 Completed **OWASP Top 10** web vulnerability testing using Burpsuite, Dirbuster, XSS, SQL Injection
 - 📍 Based in Hyderabad, India
 
 ---
@@ -29,6 +30,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
+![Burpsuite](https://img.shields.io/badge/Burpsuite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat)
 
 ### Security Domains Studied
@@ -40,10 +42,20 @@
 - 🔹 Cryptography (SSL, Hashing, Steganography, Digital Signatures)
 - 🔹 Active Directory & Kerberos Authentication
 - 🔹 Cybersecurity Compliance (GDPR, ISO 27001, NIST, PCI-DSS, OWASP)
-- 🔹 Web Application Security (Nikto, OWASP-ZAP, Gobuster, Wpscan)
+- 🔹 Web Application Security — OWASP Top 10 (XSS, SQL Injection, URL Poisoning, PHP Injection)
+- 🔹 SOC (Security Operations Center) — In Progress
 
 ### Tools & Platforms
-`Wireshark` `Nmap` `Metasploit Framework` `Nikto` `OWASP-ZAP` `Gobuster` `Wpscan` `Netcat` `SSH` `pfSense` `pfBlockerNG`
+`Wireshark` `Nmap` `Metasploit Framework` `Burpsuite` `Dirbuster` `Nikto` `OWASP-ZAP` `Gobuster` `Wpscan` `Netcat` `SSH` `pfSense` `pfBlockerNG`
+
+### Systems & Other Skills
+- 🔹 MES System Management & Production Deployment
+- 🔹 Black Box / User Acceptance Testing (UAT)
+- 🔹 Remote Device Management & Troubleshooting
+- 🔹 OS Installation (Windows, Linux, VirtualBox)
+- 🔹 PC Hardware Assembly & Configuration
+- 🔹 Workflow Automation (Make.com)
+- 🔹 AI Tools for Productivity & Research
 
 ---
 
@@ -65,10 +77,13 @@ Internet → pfSense Firewall (Mini PC)
 
 | Challenge | Tools Used | Status |
 |-----------|-----------|--------|
+| OWASP Top 10 Web Vulnerabilities | Burpsuite, Dirbuster | ✅ Completed |
+| XSS / SQL Injection / PHP Injection | Burpsuite | ✅ Completed |
 | FTP Exploitation | Netcat, FTP | ✅ Completed |
 | SSH Brute Force & Access | SSH, Nmap | ✅ Completed |
 | Network Capture Analysis | Wireshark | ✅ Completed |
 | Home Lab Network Security | pfSense, pfBlockerNG | ✅ Running Live |
+| SOC Operations | SIEM Tools | 🔄 In Progress |
 
 ---
 
@@ -79,7 +94,7 @@ Internet → pfSense Firewall (Mini PC)
 - **Mobile PCB/SMT Manufacturing** — Production Team Leader *(Chinese MNC)*
 - **Automotive Electronics Manufacturing** — Junior Engineer *(Japanese MNC)*
 
-*This background gives me deep understanding of OT/industrial environments, process-critical systems, and what "real-world infrastructure" looks like from the inside.*
+*Deep understanding of OT/industrial environments, MES systems, process-critical software, and what "real-world infrastructure" looks like from the inside.*
 
 ---
 
@@ -92,9 +107,10 @@ Internet → pfSense Firewall (Mini PC)
 ## 🎯 Currently Working On
 
 - 📖 Completing CEH certification (July 2026)
+- 🔍 SOC — Security Operations & Threat Detection
 - 🛠️ Building CTF writeups & security projects on GitHub
-- 🌐 Expanding home lab with more security monitoring tools
-- 📚 Preparing for Web Application Pentesting & Bug Bounty
+- 🌐 Expanding home lab with SIEM & monitoring tools
+- 📚 Bug Bounty preparation
 
 ---
 
