@@ -87,6 +87,14 @@ Internet → pfSense Firewall (Mini PC)
 
 ---
 
+## 🛠️ Open Source Tools
+
+| Tool | Description | Language | Status |
+|------|-------------|----------|--------|
+| [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer with Updated Wordlists (May 2026) | Python | ✅ Active |
+
+---
+
 ## 🏭 Industry Background (My Unfair Advantage)
 
 9+ years across 4 companies in high-tech manufacturing:
