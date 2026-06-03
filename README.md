@@ -116,7 +116,7 @@ Internet → pfSense Firewall (Mini PC)
 
 - 📖 Completing CEH certification (July 2026)
 - 🔍 SOC — Security Operations & Threat Detection
-- 🛠️ Building CTF writeups & security projects on GitHub
+- 🛠️ Built DarkBuster — Web Directory Bruteforcer with Updated Wordlists
 - 🌐 Expanding home lab with SIEM & monitoring tools
 - 📚 Bug Bounty preparation
 
