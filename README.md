@@ -12,23 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=darkdisaster08&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkdisaster08&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdisaster08&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkdisaster08&theme=dark&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ## 🧠 About Me
 
 - 🔐 Currently pursuing **Certified Ethical Hacker (CEH)** certification (completing July 2026)
