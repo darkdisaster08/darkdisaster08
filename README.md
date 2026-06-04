@@ -99,7 +99,7 @@ Internet → pfSense Firewall (Mini PC)
 ## 🏭 Industry Background (My Unfair Advantage)
 
 9+ years across 4 companies in high-tech manufacturing:
-- **Lithium-Ion Battery Manufacturing** — Senior Process Engineer *(Leading Chinese MNC)*
+- **Industrial Network & MES Administration** — Process & Systems Engineer *(MNC)*
 - **Mobile PCB/SMT Manufacturing** — Production Team Leader *(Chinese MNC)*
 - **Automotive Electronics Manufacturing** — Junior Engineer *(Japanese MNC)*
 
