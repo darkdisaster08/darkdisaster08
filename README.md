@@ -65,9 +65,9 @@
 
 ## 🛠️ Open Source Tools
 
-| Tool | Description | Language | Stars | Status |
-|------|-------------|----------|-------|--------|
-| [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer with 2000+ Updated Wordlists (May 2026) | Python | ![Stars](https://img.shields.io/github/stars/darkdisaster08/darkbuster?style=flat&color=yellow) | ✅ Active |
+| Tool | Description | Language | Status |
+|------|-------------|----------|--------|
+| [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer with 2000+ Updated Wordlists (May 2026) | Python | ✅ Active |
 
 ---
 
