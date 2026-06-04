@@ -3,7 +3,6 @@
 ![CEH](https://img.shields.io/badge/CEH-In%20Progress-orange?style=flat&logo=security&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity-brightgreen?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=darkdisaster08&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/darkdisaster08?style=flat&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/darkdisaster08?style=flat&color=yellow)
 
 ## 🛡️ Aspiring Cybersecurity Professional | CEH (In Progress) | BCA Graduate
