@@ -16,7 +16,7 @@
 
 - 🔐 Currently pursuing **Certified Ethical Hacker (CEH)** certification (completing July 2026)
 - 🎓 **Bachelor of Computer Applications (BCA)** — CCSU Meerut (2022–2025)
-- 🏭 9+ years in **Electronics & Battery Manufacturing** at Japanese & Chinese MNCs — deep understanding of real-world industrial systems, processes, and infrastructure
+- 🏭 9+ years in **Industrial Network & MES Administration** at Japanese & Chinese MNCs — deep understanding of real-world industrial systems, processes, and infrastructure
 - 🖥️ Managed **MES systems** — software deployment, UAT, functional testing, and production rollouts in collaboration with international development teams
 - 🔨 Built a **home lab** running pfSense firewall with pfBlockerNG, Cloudflare Dynamic DNS, VPN (PIA), WAN/LAN segmentation
 - 🚩 Completed **OWASP Top 10** web vulnerability testing using Burpsuite, Dirbuster, XSS, SQL Injection
