@@ -83,7 +83,6 @@ My 9 years in manufacturing gives me rare operational knowledge that pure IT sec
 |------|-------------|----------|-------|--------|
 | [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer — 2000+ updated wordlists | Python | ⭐ 34+ | ✅ Active |
 | [🚪 KnockSense](https://github.com/darkdisaster08/knocksense) | Automated port-knocking analyzer — PCAP-based sequence detection, tested on live VulnHub CTF boxes | Python | ⭐ Active | ✅ Active |
-| [🛡️ Threnix](https://github.com/darkdisaster08/threnix) | Open-source desktop vulnerability scanner — detect-confirm-classify pipeline, dual-mode reporting | Python | ⭐ Active | ✅ Active |
 
 ---
 
