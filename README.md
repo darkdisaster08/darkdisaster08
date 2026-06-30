@@ -110,8 +110,8 @@ Internet → pfSense Firewall (Mini PC)
 | SSH Brute Force & Access | SSH, Nmap | ✅ Completed |
 | Network Capture Analysis | Wireshark | ✅ Completed |
 | Port Knocking Sequence Detection | KnockSense (custom tool) | ✅ Completed |
-| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Running Live |
-| SOC Operations & SIEM | QRadar, Splunk | 🔄 In Progress |
+| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Completed |
+| SOC Operations & SIEM | QRadar, Splunk | ✅ Completed |
 
 ---
 
