@@ -20,7 +20,7 @@
 - 🛡️ Built a **pfSense home lab** — real firewall, VPN, network segmentation, 14,000+ blocked IPs
 - 🚩 Completed **OWASP Top 10** web vulnerability testing — XSS, SQL Injection, PHP Injection, URL Poisoning
 - 🤖 Built **WhatsApp Community Bot** — live in 600-700 member professional community
-- 🚀 Founder @Sonlate.ai — We're building something the world needs. Launching soon.
+- 🚀 Founder @Sonlate.ai — Building something the world needs. Launching soon.
 - 📊 Founder @ProcessEdge Consulting — Manufacturing-grade process excellence for quick commerce dark stores
 - 📍 Based in Hyderabad, India
 
@@ -112,7 +112,7 @@ Internet → pfSense Firewall (Mini PC)
 ## 🚀 Ventures
 
 ### Sonlate.ai
-OS-level real-time AI dubbing app for Windows. Any video playing on Windows gets dubbed live into your chosen language using Neural AI voice. We're building something the world needs. Launching soon.
+We're building something the world needs. Launching soon. 🚀
 
 ### ProcessEdge Consulting
 Manufacturing-grade process excellence for quick commerce dark store operations. OEE · FMEA · CAPA · Fishbone Analysis applied to Blinkit, Zepto, and Swiggy Instamart operators to improve SLA performance and inventory accuracy.
@@ -127,7 +127,7 @@ Manufacturing-grade process excellence for quick commerce dark store operations.
 - 🛡️ **Fortinet NSE 1+2+3** — free certification in progress
 - 🔐 **CISA ICS/OT free training** — ics-cert.cisa.gov
 - 🛠️ Maintaining **DarkBuster** and **KnockSense**
-- 🚀 Building **Sonlate.ai** — OS-level real-time AI dubbing
+- 🚀 Building **Sonlate.ai** — something the world needs. Launching soon.
 - 📊 Growing **ProcessEdge Consulting** — quick commerce operations auditing
 - 🐛 Bug bounty preparation — HackerOne
 
