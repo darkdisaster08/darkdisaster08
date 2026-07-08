@@ -71,7 +71,7 @@
 
 | Tool | Description | Language | Stars | Status |
 |------|-------------|----------|-------|--------|
-| [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer — 2000+ updated wordlists | Python | ⭐ 34+ | ✅ Active |
+| [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer — 2000+ updated wordlists | Python | ⭐ 40+ | ✅ Active |
 | [🚪 KnockSense](https://github.com/darkdisaster08/knocksense) | Automated port-knocking analyzer — PCAP-based sequence detection, tested on live VulnHub CTF boxes | Python | ⭐ Active | ✅ Active |
 
 ---
