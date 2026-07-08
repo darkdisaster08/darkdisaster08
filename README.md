@@ -1,14 +1,13 @@
-# Hi there, I'm Manjeet Thakur 👋
+```# Hi there, I'm Manjeet Thakur 👋
 
 ![CEH](https://img.shields.io/badge/CEH-July%202026-orange?style=flat&logo=security&logoColor=white)
-![OT Security](https://img.shields.io/badge/OT%2FICS-Security-red?style=flat)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-OT%20%7C%20Cybersecurity-brightgreen?style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20%7C%20IT%20Support-brightgreen?style=flat)
 ![Profile Views](https://komarev.com/ghpvc/?username=darkdisaster08&color=blue&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/darkdisaster08?style=flat&color=yellow)
 
-## 🏭 OT/ICS Security | 9 Yrs Manufacturing (MES · Battery · Electronics MNC) | CEH Jul 2026 | BCA Graduate
+## 🔐 Cybersecurity Professional | CEH (Jul 2026) | VAPT · SOC · Network Security | Open Source Builder | Founder @Sonlate.ai & @ProcessEdge Consulting
 
-> *"9 years on the factory floor. Now securing it. Most security professionals learn OT from textbooks — I learned it from the inside."*
+> *"I don't just study security — I build tools. Two open-source security tools live on GitHub. Real lab. Real CTFs. Real skills."*
 
 ---
 
@@ -16,31 +15,14 @@
 
 - 🔐 Completing **Certified Ethical Hacker (CEH)** certification — July 2026
 - 🎓 **Bachelor of Computer Applications (BCA)** — CCSU Meerut (2022–2025)
-- 🏭 **9+ years in electronics & lithium-ion battery manufacturing** at Japanese & Chinese MNCs — hands-on with MES systems, production IT infrastructure, and OT environments
-- 🖥️ Managed **MES systems** end-to-end — software deployment, UAT testing, production rollouts with international development teams (Level 2, Purdue Model)
-- 🔨 Built a **home lab** running pfSense firewall, pfBlockerNG, Cloudflare Dynamic DNS, VPN, WAN/LAN/VPN segmentation
+- 🔨 Built **DarkBuster** — open source web directory bruteforcer (34+ GitHub stars, 37,000+ LinkedIn impressions)
+- 🚪 Built **KnockSense** — automated port-knocking analyzer using PCAP-based sequence detection, tested on real CTF environments
+- 🛡️ Built a **pfSense home lab** — real firewall, VPN, network segmentation, 14,000+ blocked IPs
 - 🚩 Completed **OWASP Top 10** web vulnerability testing — XSS, SQL Injection, PHP Injection, URL Poisoning
-- 🔧 Built **DarkBuster** — open source web directory bruteforcer (34+ GitHub stars, 37,000+ LinkedIn impressions)
-- 🚪 Built **KnockSense** — automated port-knocking analyzer using PCAP-based sequence detection
-- 🚀 We're building something the world needs. Launching soon.
+- 🤖 Built **WhatsApp Community Bot** — live in 600-700 member professional community
+- 🚀 Founder @Sonlate.ai — We're building something the world needs. Launching soon.
+- 📊 Founder @ProcessEdge Consulting — Manufacturing-grade process excellence for quick commerce dark stores
 - 📍 Based in Hyderabad, India
-
----
-
-## 🏗️ OT/ICS Security Focus
-
-My 9 years in manufacturing gives me rare operational knowledge that pure IT security professionals don't have:
-
-| What I Know | Why It Matters in OT Security |
-|-------------|-------------------------------|
-| ✅ MES Systems (Level 2 Purdue Model) | Understand exactly what attackers target in production environments |
-| ✅ Lithium-ion battery manufacturing | Niche domain — high OT security demand in EV/energy sector |
-| ✅ UAT in live production environments | Understand why you can't patch OT systems like IT systems |
-| ✅ IT/OT convergence — lived it daily | Bridge the gap most security teams struggle to cross |
-| ✅ Chinese & Japanese MNC operations | International security culture, cross-border team collaboration |
-| ✅ Electronics/SMT/PCB manufacturing | Hardware-layer awareness most security pros completely lack |
-
-*Targeting: OT Security Analyst · ICS Security Engineer · Industrial Cybersecurity roles*
 
 ---
 
@@ -57,23 +39,31 @@ My 9 years in manufacturing gives me rare operational knowledge that pure IT sec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Security Domains
-- 🔹 OT/ICS Security Fundamentals — Purdue Model, IT/OT Convergence, SCADA/PLC/HMI awareness
-- 🔹 Linux Administration & Command Line
-- 🔹 Networking Fundamentals (OSI, TCP/IP, Subnetting, DNS, DHCP, Protocols)
-- 🔹 Network Security (Firewalls, IDS/IPS, VPN, DMZ, Honeypots)
-- 🔹 Vulnerability Assessment & Management (CVSS, VAPT)
-- 🔹 Network & Penetration Testing (OSINT, Post-Exploitation, Privilege Escalation)
-- 🔹 Cryptography (SSL, Hashing, Steganography, Digital Signatures)
-- 🔹 Active Directory & Kerberos Authentication
-- 🔹 Web Application Security — OWASP Top 10 (XSS, SQL Injection, URL Poisoning, PHP Injection)
-- 🔹 Cybersecurity Compliance — GDPR, ISO 27001, NIST, ISA/IEC 62443 (awareness), PCI-DSS
-- 🔹 SOC Operations & SIEM Tools — In Progress
+- 🔹 **Network Security** — Firewalls, IDS/IPS, VPN, DMZ, Honeypots, Firewall Rules Configuration
+- 🔹 **Web Application Security** — OWASP Top 10, XSS, SQL Injection, PHP Injection, URL Poisoning, IDOR, Broken Authentication
+- 🔹 **Vulnerability Assessment & Management** — CVSS Scoring, VAPT, Risk Assessment, Remediation Planning
+- 🔹 **Network & Penetration Testing** — OSINT, Shodan, Google Dorking, Post-Exploitation, Privilege Escalation, MITM
+- 🔹 **System Hacking** — Password Cracking, Privilege Escalation (Linux & Windows), Post Exploitation, Social Engineering
+- 🔹 **SOC Operations** — L1/L2 Analyst Workflow, Alert Triage, Incident Response, IOC Identification, Kill Chain
+- 🔹 **Threat Intelligence** — MITRE ATT&CK Framework, Threat Hunting, OSINT, Indicators of Compromise
+- 🔹 **SIEM Tools** — IBM QRadar, Splunk, Log Analysis
+- 🔹 **Cryptography** — SSL/TLS, Hashing (MD5, SHA), Digital Signatures, Symmetric & Asymmetric Encryption
+- 🔹 **Cloud Security** — Cloud Security Fundamentals, Shared Responsibility Model (In Progress)
+- 🔹 **Linux Administration** — Kali Linux, Ubuntu, Raspbian OS, CLI, Privilege Escalation
+- 🔹 **Networking Fundamentals** — OSI Model, TCP/IP, Subnetting, DNS, DHCP, VPN, Active Directory
+- 🔹 **Compliance** — ISO 27001, PCI-DSS, OWASP Standards, SOC 2 (awareness)
 
-### Tools & Platforms
-`Wireshark` `Nmap` `Metasploit Framework` `Burpsuite` `Dirbuster` `Nikto` `OWASP-ZAP` `Gobuster` `Wpscan` `Netcat` `SSH` `pfSense` `pfBlockerNG`
+### Offensive Tools
+`Metasploit` `Hydra` `Burp Suite` `Nmap` `Netcat` `Dirbuster` `Gobuster` `Nikto` `OWASP-ZAP` `Shodan` `Google Dorking`
 
-### OT/Industrial Systems
-`MES Administration` `UAT Testing` `Production Rollouts` `Remote Device Management` `PC Hardware Assembly` `OS Installation (Windows/Linux)` `VirtualBox` `Workflow Automation`
+### Defensive Tools
+`Wireshark` `Snort IDS` `pfSense` `pfBlockerNG` `IBM QRadar` `Splunk`
+
+### Remote Access & Admin
+`SCP` `VNC` `SSH` `Remote Desktop` `VPN Configuration`
+
+### Development & Automation
+`Python` `Node.js` `REST API Integration` `Automation Scripting` `FFMPEG`
 
 ---
 
@@ -96,6 +86,62 @@ Internet → pfSense Firewall (Mini PC)
                ├── WAN/LAN/VPN Interface Segmentation
                └── Managed Switch → Access Point
 ```
+*Real network. Real threats. Real defense.*
+
+---
+
+## 🚩 CTF & Practical Work
+
+| Challenge | Tools Used | Status |
+|-----------|-----------|--------|
+| OWASP Top 10 Web Vulnerabilities | Burpsuite, Dirbuster | ✅ Completed |
+| XSS / SQL Injection / PHP Injection | Burpsuite | ✅ Completed |
+| FTP Exploitation | Netcat, FTP | ✅ Completed |
+| SSH Brute Force & Access | SSH, Nmap | ✅ Completed |
+| Network Capture Analysis | Wireshark | ✅ Completed |
+| Port Knocking Sequence Detection | KnockSense (custom tool) | ✅ Completed |
+| Password Cracking | Hydra, Hashcat | ✅ Completed |
+| Privilege Escalation (Linux & Windows) | Metasploit, Manual | ✅ Completed |
+| MITM & ARP Poisoning | Wireshark, Netcat | ✅ Completed |
+| SOC Operations & Alert Triage | IBM QRadar, Splunk | ✅ Completed |
+| Threat Intelligence & IOC Analysis | MITRE ATT&CK, OSINT | ✅ Completed |
+| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Running Live |
+
+---
+
+## 🚀 Ventures
+
+### Sonlate.ai
+OS-level real-time AI dubbing app for Windows. Any video playing on Windows gets dubbed live into your chosen language using Neural AI voice. We're building something the world needs. Launching soon.
+
+### ProcessEdge Consulting
+Manufacturing-grade process excellence for quick commerce dark store operations. OEE · FMEA · CAPA · Fishbone Analysis applied to Blinkit, Zepto, and Swiggy Instamart operators to improve SLA performance and inventory accuracy.
+
+🔗 [linkedin.com/company/processedge-consulting](https://linkedin.com/company/processedge-consulting)
+
+---
+
+## 🎯 Currently Working On
+
+- 📖 Completing **CEH certification** — July 2026
+- 🛡️ **Fortinet NSE 1+2+3** — free certification in progress
+- 🔐 **CISA ICS/OT free training** — ics-cert.cisa.gov
+- 🛠️ Maintaining **DarkBuster** and **KnockSense**
+- 🚀 Building **Sonlate.ai** — OS-level real-time AI dubbing
+- 📊 Growing **ProcessEdge Consulting** — quick commerce operations auditing
+- 🐛 Bug bounty preparation — HackerOne
+
+---
+
+## 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manu008rajput@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjeet-thakur-sec)
+[![ProcessEdge](https://img.shields.io/badge/ProcessEdge%20Consulting-1B3A6B?style=flat&logoColor=white)](https://linkedin.com/company/processedge-consulting)
+
+---
+
+*"Security isn't just about tools — it's about understanding systems deeply enough to know what matters."*
 *Real network. Real threats. Real defense.*
 
 ---
