@@ -1,4 +1,4 @@
-```# Hi there, I'm Manjeet Thakur 👋
+# Hi there, I'm Manjeet Thakur 👋
 
 ![CEH](https://img.shields.io/badge/CEH-July%202026-orange?style=flat&logo=security&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20%7C%20IT%20Support-brightgreen?style=flat)
@@ -142,54 +142,3 @@ Manufacturing-grade process excellence for quick commerce dark store operations.
 ---
 
 *"Security isn't just about tools — it's about understanding systems deeply enough to know what matters."*
-*Real network. Real threats. Real defense.*
-
----
-
-## 🚩 CTF & Practical Work
-
-| Challenge | Tools Used | Status |
-|-----------|-----------|--------|
-| OWASP Top 10 Web Vulnerabilities | Burpsuite, Dirbuster | ✅ Completed |
-| XSS / SQL Injection / PHP Injection | Burpsuite | ✅ Completed |
-| FTP Exploitation | Netcat, FTP | ✅ Completed |
-| SSH Brute Force & Access | SSH, Nmap | ✅ Completed |
-| Network Capture Analysis | Wireshark | ✅ Completed |
-| Port Knocking Sequence Detection | KnockSense (custom tool) | ✅ Completed |
-| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Completed |
-| SOC Operations & SIEM | QRadar, Splunk | ✅ Completed |
-
----
-
-## 🏭 Industry Background (My Unfair Advantage)
-
-9+ years across 4 companies in high-tech manufacturing:
-
-- **Senior Process Engineer** — Lithium-Ion Battery Manufacturing *(Leading Chinese MNC)*
-- **Production Team Leader** — Mobile PCB/SMT Manufacturing *(Chinese MNC)*
-- **Junior Engineer** — Automotive Electronics Manufacturing *(Japanese MNC)*
-
-*This is not background noise. This is the exact knowledge OT security roles are desperately looking for — and almost no security professional has it.*
-
----
-
-## 🎯 Currently Working On
-
-- 🏭 Targeting **OT/ICS Security** roles — bridging 9 years manufacturing with cybersecurity credentials
-- 📖 Completing **CEH certification** — July 2026
-- 🛡️ **Fortinet NSE 1+2+3** — free certification in progress
-- 🔐 **CISA ICS/OT free training** — ics-cert.cisa.gov
-- 🛠️ Maintaining DarkBuster, KnockSense
-- 🚀 Building something the world needs. Launching soon.
-
----
-
-## 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manu008rajput@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjeet-thakur-sec)
-
----
-
-*"Security isn't just about tools — it's about understanding systems deeply enough to know what matters. 9 years of industry experience taught me that."*
-
