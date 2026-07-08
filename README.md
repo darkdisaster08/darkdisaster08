@@ -15,7 +15,7 @@
 
 - 🔐 Completing **Certified Ethical Hacker (CEH)** certification — July 2026
 - 🎓 **Bachelor of Computer Applications (BCA)** — CCSU Meerut (2022–2025)
-- 🔨 Built **DarkBuster** — open source web directory bruteforcer (34+ GitHub stars, 37,000+ LinkedIn impressions)
+- 🔨 Built **DarkBuster** — open source web directory bruteforcer (40+ GitHub stars, 37,000+ LinkedIn impressions)
 - 🚪 Built **KnockSense** — automated port-knocking analyzer using PCAP-based sequence detection, tested on real CTF environments
 - 🛡️ Built a **pfSense home lab** — real firewall, VPN, network segmentation, 14,000+ blocked IPs
 - 🚩 Completed **OWASP Top 10** web vulnerability testing — XSS, SQL Injection, PHP Injection, URL Poisoning
@@ -140,5 +140,5 @@ Manufacturing-grade process excellence for quick commerce dark store operations.
 [![ProcessEdge](https://img.shields.io/badge/ProcessEdge%20Consulting-1B3A6B?style=flat&logoColor=white)](https://linkedin.com/company/processedge-consulting)
 
 ---
- 
+
 *"Security isn't just about tools — it's about understanding systems deeply enough to know what matters."*
