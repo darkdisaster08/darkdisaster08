@@ -152,4 +152,4 @@ https://www.linkedin.com/company/sonlate
 
 ---
 
-*"Security isn't just about tools — it's about understanding systems deeply enough to know what matters."*
+*"Building products that solve real-world problems."*
