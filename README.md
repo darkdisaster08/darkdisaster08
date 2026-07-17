@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darkdisaster08&color=blue&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/darkdisaster08?style=flat&color=yellow)
 
-## 🔐 Cybersecurity Professional | CEH (Jul 2026) | VAPT · SOC · Network Security | Open Source Builder | Founder @Sonlate.ai & @ProcessEdge Consulting
+## 🔐 AI Product Builder • Cybersecurity • Open Source Developer • Building Sonlate.ai
 
 > *"I don't just study security — I build tools. Two open-source security tools live on GitHub. Real lab. Real CTFs. Real skills."*
 
@@ -73,6 +73,16 @@
 |------|-------------|----------|-------|--------|
 | [🔍 DarkBuster](https://github.com/darkdisaster08/darkbuster) | Advanced Web Directory & File Bruteforcer — 2000+ updated wordlists | Python | ⭐ 40+ | ✅ Active |
 | [🚪 KnockSense](https://github.com/darkdisaster08/knocksense) | Automated port-knocking analyzer — PCAP-based sequence detection, tested on live VulnHub CTF boxes | Python | ⭐ Active | ✅ Active |
+
+---
+
+## 🤖 AI Products
+
+Sonlate.ai
+AI Video Generator
+AI Audio Generator
+WhatsApp Community Bot
+Offline Barcode Generator
 
 ---
 
