@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 🔐 Completing **Certified Ethical Hacker (CEH)** certification — July 2026
+- 📖 Learning advanced offensive security & AI engineering
 - 🎓 **Bachelor of Computer Applications (BCA)** — CCSU Meerut (2022–2025)
 - 🔨 Built **DarkBuster** — open source web directory bruteforcer (40+ GitHub stars, 37,000+ LinkedIn impressions)
 - 🚪 Built **KnockSense** — automated port-knocking analyzer using PCAP-based sequence detection, tested on real CTF environments
@@ -138,7 +138,7 @@ https://www.linkedin.com/company/sonlate
 
 ## 🎯 Currently Working On
 
-- 📖 Completing **CEH certification** — July 2026
+- 📖 Learning advanced offensive security & AI engineering
 - 🛠️ Maintaining **DarkBuster** and **KnockSense**
 - 🚀 Building **Sonlate.ai** — something the world needs. Launching soon.
 - 📊 Growing **ProcessEdge Consulting** — quick commerce operations auditing
