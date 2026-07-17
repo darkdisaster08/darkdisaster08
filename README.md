@@ -141,7 +141,6 @@ https://www.linkedin.com/company/sonlate
 - 📖 Learning advanced offensive security & AI engineering
 - 🛠️ Maintaining **DarkBuster** and **KnockSense**
 - 🚀 Building **Sonlate.ai** — something the world needs. Launching soon.
-- 📊 Growing **ProcessEdge Consulting** — quick commerce operations auditing
 - 🐛 Bug bounty preparation — HackerOne
 
 ---
