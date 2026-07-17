@@ -21,7 +21,6 @@
 - 🚩 Completed **OWASP Top 10** web vulnerability testing — XSS, SQL Injection, PHP Injection, URL Poisoning
 - 🤖 Built **WhatsApp Community Bot** — live in 600-700 member professional community
 - 🚀 Founder @Sonlate.ai — Building something the world needs. Launching soon.
-- 📊 Founder @ProcessEdge Consulting — Manufacturing-grade process excellence for quick commerce dark stores
 - 📍 Based in Hyderabad, India
 
 ---
@@ -133,10 +132,7 @@ Internet → pfSense Firewall (Mini PC)
 ### Sonlate.ai
 We're building something the world needs. Launching soon. 🚀
 
-### ProcessEdge Consulting
-Manufacturing-grade process excellence for quick commerce dark store operations. OEE · FMEA · CAPA · Fishbone Analysis applied to Blinkit, Zepto, and Swiggy Instamart operators to improve SLA performance and inventory accuracy.
-
-🔗 [linkedin.com/company/processedge-consulting](https://linkedin.com/company/processedge-consulting)
+https://www.linkedin.com/company/sonlate
 
 ---
 
@@ -154,7 +150,6 @@ Manufacturing-grade process excellence for quick commerce dark store operations.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manu008rajput@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjeet-thakur-sec)
-[![ProcessEdge](https://img.shields.io/badge/ProcessEdge%20Consulting-1B3A6B?style=flat&logoColor=white)](https://linkedin.com/company/processedge-consulting)
 
 ---
 
