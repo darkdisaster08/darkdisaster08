@@ -78,19 +78,19 @@
 
 ## 🤖 AI Products
 
-Sonlate.ai
+- 🔹 Sonlate.ai
 → Something that actually World needs.
 
-AI Video Generator
+- 🔹 AI Video Generator
 → Script → Voice → Video using ElevenLabs + Pexels.
 
-WhatsApp Community Bot
+- 🔹 WhatsApp Community Bot
 → Automated onboarding, moderation, warnings, mute and kick system.
 
-AI Audio Generator
+- 🔹 AI Audio Generator
 → Script-to-speech generation using ElevenLabs.
 
-Offline Barcode Generator
+- 🔹 Offline Barcode Generator
 → Desktop barcode generation tool with no internet dependency.
 
 ---
