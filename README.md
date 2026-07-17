@@ -78,11 +78,11 @@
 
 ## 🤖 AI Products
 
-Sonlate.ai
-AI Video Generator
-AI Audio Generator
-WhatsApp Community Bot
-Offline Barcode Generator
+- 🔹 Sonlate.ai
+- 🔹 AI Video Generator
+- 🔹 AI Audio Generator
+- 🔹 WhatsApp Community Bot
+- 🔹 Offline Barcode Generator
 
 ---
 
@@ -134,8 +134,6 @@ Manufacturing-grade process excellence for quick commerce dark store operations.
 ## 🎯 Currently Working On
 
 - 📖 Completing **CEH certification** — July 2026
-- 🛡️ **Fortinet NSE 1+2+3** — free certification in progress
-- 🔐 **CISA ICS/OT free training** — ics-cert.cisa.gov
 - 🛠️ Maintaining **DarkBuster** and **KnockSense**
 - 🚀 Building **Sonlate.ai** — something the world needs. Launching soon.
 - 📊 Growing **ProcessEdge Consulting** — quick commerce operations auditing
