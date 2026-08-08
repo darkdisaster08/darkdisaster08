@@ -123,7 +123,7 @@ Internet → pfSense Firewall (Mini PC)
 | MITM & ARP Poisoning | Wireshark, Netcat | ✅ Completed |
 | SOC Operations & Alert Triage | IBM QRadar, Splunk | ✅ Completed |
 | Threat Intelligence & IOC Analysis | MITRE ATT&CK, OSINT | ✅ Completed |
-| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Running Live |
+| Home Lab Network Security | pfSense, pfBlockerNG | ✅ Completed |
 
 ---
 
