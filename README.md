@@ -21,7 +21,7 @@
 - 🚩 Completed **OWASP Top 10** web vulnerability testing — XSS, SQL Injection, PHP Injection, URL Poisoning
 - 🤖 Built **WhatsApp Community Bot** — live in 600-700 member professional community
 - 🚀 Founder @Sonlate.ai — Building something the world needs. Launching soon.
-- 📍 Based in Hyderabad, India
+- 📍 Based in Chandigarh, India
 
 ---
 
