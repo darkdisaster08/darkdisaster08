@@ -138,10 +138,7 @@ https://www.linkedin.com/company/sonlate
 
 ## 🎯 Currently Working On
 
-- 📖 Learning advanced offensive security & AI engineering
-- 🛠️ Maintaining **DarkBuster** and **KnockSense**
 - 🚀 Building **Sonlate.ai** — something the world needs. Launching soon.
-- 🐛 Bug bounty preparation — HackerOne
 
 ---
 
