@@ -1,4 +1,4 @@
-# Hi there, I'm Manjeet Thakur 👋
+# Hi there, I'm Manjeet Thakur  👋
 
 ![CEH](https://img.shields.io/badge/CEH-July%202026-orange?style=flat&logo=security&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Cybersecurity%20%7C%20IT%20Support-brightgreen?style=flat)
